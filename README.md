@@ -1,4 +1,4 @@
-**[This code belongs to the "Simulating protein sequence using Recurrent Neural Networks" post at BioLearning blog.](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)**
+**[This code belongs to the "Simulating protein sequence using Recurrent Neural Networks" post at BioLearning blog.](https://wordpress.com/post/mlayeghi.wordpress.com/118)**
 
 
 ## Requirements

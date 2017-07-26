@@ -1,4 +1,4 @@
-**[This code belongs to the "Simulating protein sequence using Recurrent Neural Networks" post at BioLearning blog.](https://wordpress.com/post/mlayeghi.wordpress.com/118)**
+**This code belongs to the "Simulating protein sequence using Recurrent Neural Networks" [post at BioLearning blog].(https://mlayeghi.wordpress.com/2017/07/26/simulating-protein-sequence-using-recurrent-neural-networks/)**
 
 
 ## Requirements
